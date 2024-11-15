@@ -7,6 +7,7 @@ paginate = 100 #frontpage pagination
 theme = 'monochrome'
 enableGitInfo = true
 
+
 [[navbar]]
   identifier = "categories"
   name = "Категории"
